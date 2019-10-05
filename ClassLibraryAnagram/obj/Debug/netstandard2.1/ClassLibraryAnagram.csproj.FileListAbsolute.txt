@@ -1,0 +1,8 @@
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\ClassLibraryAnagram\bin\Debug\netstandard2.1\ClassLibraryAnagram.deps.json
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\ClassLibraryAnagram\bin\Debug\netstandard2.1\ClassLibraryAnagram.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\ClassLibraryAnagram\bin\Debug\netstandard2.1\ClassLibraryAnagram.pdb
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\ClassLibraryAnagram\obj\Debug\netstandard2.1\ClassLibraryAnagram.csprojAssemblyReference.cache
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\ClassLibraryAnagram\obj\Debug\netstandard2.1\ClassLibraryAnagram.AssemblyInfoInputs.cache
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\ClassLibraryAnagram\obj\Debug\netstandard2.1\ClassLibraryAnagram.AssemblyInfo.cs
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\ClassLibraryAnagram\obj\Debug\netstandard2.1\ClassLibraryAnagram.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\ClassLibraryAnagram\obj\Debug\netstandard2.1\ClassLibraryAnagram.pdb

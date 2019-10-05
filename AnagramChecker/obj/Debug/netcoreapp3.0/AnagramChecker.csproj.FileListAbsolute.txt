@@ -1,0 +1,16 @@
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\AnagramChecker.exe
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\AnagramChecker.deps.json
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\AnagramChecker.runtimeconfig.json
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\AnagramChecker.runtimeconfig.dev.json
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\AnagramChecker.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\AnagramChecker.pdb
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\ClassLibraryAnagram.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\ClassLibraryAnagram.pdb
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.csprojAssemblyReference.cache
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.AssemblyInfoInputs.cache
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.AssemblyInfo.cs
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.csproj.CopyComplete
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.pdb
