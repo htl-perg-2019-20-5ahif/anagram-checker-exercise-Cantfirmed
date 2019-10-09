@@ -19,3 +19,5 @@ D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramCheckerAPI\obj\Debug\netc
 D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramCheckerAPI\obj\Debug\netcoreapp3.0\AnagramCheckerAPI.csproj.CopyComplete
 D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramCheckerAPI\obj\Debug\netcoreapp3.0\AnagramCheckerAPI.dll
 D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramCheckerAPI\obj\Debug\netcoreapp3.0\AnagramCheckerAPI.pdb
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramCheckerAPI\bin\Debug\netcoreapp3.0\dictionary.json
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramCheckerAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll

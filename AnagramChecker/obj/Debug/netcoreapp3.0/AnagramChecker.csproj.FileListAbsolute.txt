@@ -14,3 +14,14 @@ D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\obj\Debug\netcore
 D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.csproj.CopyComplete
 D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.dll
 D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.pdb
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\appsettings.json
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\dictionary.json
