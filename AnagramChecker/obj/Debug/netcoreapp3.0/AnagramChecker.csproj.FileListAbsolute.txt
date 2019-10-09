@@ -25,3 +25,5 @@ D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcore
 D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\appsettings.Development.json
 D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\appsettings.json
 D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\dictionary.json
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AHIF5\C#\anagram-checker-exercise-Cantfirmed\AnagramChecker\bin\Debug\netcoreapp3.0\Serilog.dll

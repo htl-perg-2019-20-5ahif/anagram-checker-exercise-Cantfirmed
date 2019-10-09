@@ -11,7 +11,9 @@ namespace AnagramCheckerAPI.Controllers {
     [Route("api")]
     public class AnagramCheckerController : ControllerBase {
         private readonly IDictionaryReader reader;
-        public AnagramCheckerController(IDictionaryReader reader) {
+        private readonly ILogger<AnagramCheckerController> logger;
+        public AnagramCheckerController(ILogger<AnagramCheckerController> logger, IDictionaryReader reader) {
+            this.logger = logger;
             this.reader = reader;
         }
 
@@ -38,6 +40,7 @@ namespace AnagramCheckerAPI.Controllers {
             var anagramCheckerDictionary = new AnagramCheckerDictionary(reader);
             var knownWords = anagramCheckerDictionary.getKnown(word).Result;
             if (knownWords.Count() == 0) {
+                logger.LogWarning("No Anagram found");
                 return NotFound(word + " not Found");
             }
             string words = "";
